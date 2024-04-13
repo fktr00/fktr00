@@ -2,18 +2,17 @@
 
 | Rank | I like to work with |
 |:-|-|
-|     1| Data Analyst tasks|
-|     2| [leetcode](https://leetcode.com/fktr00/) |
-|     3| Data Scientist tasks |
-|     4| [programming games))](https://store.steampowered.com/tags/en/PROGRAMMING/) |
+|     1| [leetcode](https://leetcode.com/fktr00/) |
+|     2| [kaggle](https://www.kaggle.com/fktr00)|
 
+>
 >I love to learn💻
 <!-- 
 TO DO: add more details about me later
 add more links!!!    
 -->
 
-<details open>
+<details>
 <summary>In case you don't have a smile</summary>
   
 <picture>
