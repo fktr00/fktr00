@@ -1,12 +1,20 @@
 ### Hello, I'm glad you're interested in this git-profile
 
+I enjoy challenging tasks, such as those found on LeetCode and Kaggle,\
+and ease that VS Code add to workflow
+
 | Rank | I like to work with |
 |:-|-|
-|     1| [leetcode](https://leetcode.com/fktr00/) |
+|     1| [leetcode](https://leetcode.com/fktr00/)|
 |     2| [kaggle](https://www.kaggle.com/fktr00)|
+|     3| VS Code 
 
 >
->I love to learn💻
+>I love to learn💻.
+>Do stuff like, to sit a week to solve very difficult problems.
+>Sport🏃.\
+>& go to bed at 8:00 pm 🕗.
+
 <!-- 
 TO DO: add more details about me later
 add more links!!!    
